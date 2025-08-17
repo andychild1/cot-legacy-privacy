@@ -1,2 +1,2 @@
 # cot-legacy-privacy
-Privacy policy fro the Cot Legacy App
+Privacy policy for the Cot Legacy App
